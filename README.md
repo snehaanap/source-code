@@ -1,2 +1,5 @@
-# source-code
-git
+# git practice by source code
+git repository
+<br>
+clone
+
