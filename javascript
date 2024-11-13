@@ -1,0 +1,1 @@
+there are three keywords in javascript
