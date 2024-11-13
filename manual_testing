@@ -1,0 +1,19 @@
+Manual Testing Questions and Answers For Freshers
+1. Explain what is software testing.
+It is the process of analyzing any given piece of software to determine if it meets shareholders’ needs as well as detecting defects, and ascertaining the item’s overall quality by measuring its performance, features, quality, utility, and completeness. Bottom line, it’s quality control.
+
+2. What is quality control, and how does it differ from quality assurance?
+Quality control is the process of running a program to determine if it has any defects, as well as making sure that the software meets all of the requirements put forth by the stakeholders. Quality assurance is a process-oriented approach that focuses on making sure that the methods, techniques, and processes used to create quality deliverables are applied correctly.
+
+3. What exactly is manual software testing, and how does it differ from automated software testing?
+Manual software testing is a process where human testers manually run test cases, then generate the resulting test reports. With automation software testing, these functions are executed by automation tools such as test scripts and code. The tester takes the end user’s role to determine how well the app works.
+
+4. What are the advantages of manual testing?
+Manual testing’s strengths are:
+
+It’s cheaper
+You get visual feedback that’s accurate and quick
+It’s ideal for testing minor changes
+It’s perfect for ad hoc testing
+Testers don’t have to know anything about automation tools
+It’s great for testing UI’s
